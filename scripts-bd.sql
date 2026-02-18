@@ -1,3 +1,6 @@
+create database serennato;
+use serennato;
+
 create table produtos(
 id int not null auto_increment,
 tipo varchar(45) not null,
